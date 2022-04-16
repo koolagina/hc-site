@@ -1,6 +1,25 @@
 * {
     font-family: sans-serif;
 }
+.header {
+    border: 2px solid #0550ca;
+    box-sizing: border-box;
+    border-radius: 10px;
+        
+}
+.content {
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 10px;
+        
+}
+.footer {
+    border: 2px solid #035d0b;
+    box-sizing: border-box;
+    border-radius: 10px;
+        
+}
+
 a {
     color: #006400;
     text-shadow: 1px 1px 1px black, 0 0 1em #006400
